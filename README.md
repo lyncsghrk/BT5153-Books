@@ -7,7 +7,9 @@ sdk: static
 pinned: false
 ---
 
-# To see the files, please go to the Files tab!
+# To see the files, please go to [this huggingface repo](https://huggingface.co/spaces/bt5153-books/README/tree/main)!
+As Github LFS only supports up to 2GB of data, we have hosted our full repo on huggingface.
+
 Link to files: [https://huggingface.co/spaces/bt5153-books/README/tree/main](https://huggingface.co/spaces/bt5153-books/README/tree/main)
 
 # Books Recommendation Project (BT5153)
