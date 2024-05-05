@@ -25,7 +25,7 @@ User interface codes for Flask are stored in the root `./` directory, and the ht
 ## Data
 All data used for the project is stored in `./Data` in the [Huggingface repository](https://huggingface.co/spaces/bt5153-books/README/tree/main).
 
-**WARNING: This huggingface repository is over 18GB, ensure that you have sufficient space on the disk before cloning**
+***WARNING: This huggingface repository is over 18GB, ensure that you have sufficient space on the disk before cloning***
 
 For our submission, we have created a representative subset of our dataset to be included in the zip submission, and can be found in `data05.zip` in the accompanying files. These sample subset files can also be found in the [Github repository](https://github.com/lyncsghrk/BT5153-Books), under the directory `./Data/Books/final_dataset`.
 
@@ -95,7 +95,7 @@ While the ensemble model requires more computational resources than the user sim
 
 Overall, the enhanced book recommendation system shows promising results and has the potential to outperform the naive user similarity model with further data refinement and model training.
 
-### For full project description, see the report file in submission.
+*For full project description, see the report file in submission.*
 
 ## Members:
 * Ang Kai En (A0221945E)
