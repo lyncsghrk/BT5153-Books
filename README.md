@@ -27,7 +27,7 @@ All data used for the project is stored in `./Data` in the [Huggingface reposito
 
 ***WARNING: This huggingface repository is over 18GB, ensure that you have sufficient space on the disk before cloning***
 
-For our submission, we have created a representative subset of our dataset to be included in the zip submission, and can be found in `data05.zip` in the accompanying files. These sample subset files can also be found in the [Github repository](https://github.com/lyncsghrk/BT5153-Books), under the directory `./Data/Books/final_dataset`.
+For our submission, we have created a representative subset of our dataset to be included in the zip submission, and can be found in `data05.zip` in the accompanying files. These sample subset files can also be found in the [Github repository](https://github.com/lyncsghrk/BT5153-Books), under the directory `./Data/data05.zip`.
 
 # To run our project in Windows:
 
